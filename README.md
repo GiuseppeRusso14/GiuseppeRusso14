@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Ciao, sono Giuseppe! 👋
 
-<img align="right" src="https://i.postimg.cc/fyZFpWX9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c62.gif" width="320"/>
-
 ### Full Stack Developer da Catania, Sicilia 🌋
 
 Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie web moderne. Mi piace costruire interfacce intuitive e scrivere codice pulito — o almeno provarci, prima di scoprire che il bug era un punto e virgola.
