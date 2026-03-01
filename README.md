@@ -59,12 +59,18 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GiuseppeRusso14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeRusso14&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeRusso14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeRusso14&theme=tokyonight" alt="Profile Details"/>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeRusso14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiuseppeRusso14&theme=tokyonight" height="170" alt="Top Languages by Repo"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiuseppeRusso14&theme=tokyonight" height="170" alt="GitHub Stats"/>
 </div>
 
 ---
