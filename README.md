@@ -4,7 +4,7 @@
 Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie web moderne. Mi piace costruire interfacce intuitive e scrivere codice pulito — o almeno provarci, prima di scoprire che il bug era un punto e virgola.
 
 - 🔭 Attualmente lavoro su progetti **Full Stack** con React e Next.js
-- 🌱 Sempre in fase di apprendimento: ogni giorno c'è qualcosa di nuovo da esplorare
+- 🌱 Sto imparando: **Docker** — containerizzare tutto quello che si muove
 - 💬 Chiedimi di **JavaScript, React, TypeScript** o di qualsiasi cosa legata al web
 - ⚡ Fun fact: *Risolvo bug che ho creato 5 minuti prima*
 
@@ -36,7 +36,44 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
+
+---
+
+## 🚀 Progetti in evidenza
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📦 Nome Progetto 1</h3>
+      <p>Breve descrizione del progetto. Cosa fa, che problema risolve.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <a href="#">🔗 GitHub</a> · <a href="#">🌐 Live Demo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📦 Nome Progetto 2</h3>
+      <p>Breve descrizione del progetto. Cosa fa, che problema risolve.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      </p>
+      <a href="#">🔗 GitHub</a> · <a href="#">🌐 Live Demo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📦 Nome Progetto 3</h3>
+      <p>Breve descrizione del progetto. Cosa fa, che problema risolve.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <a href="#">🔗 GitHub</a> · <a href="#">🌐 Live Demo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,6 +85,12 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
     </a>
     <a href="https://www.instagram.com/giuseppe_russo14/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:tua@email.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://tuosito.com">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
 </div>
 
