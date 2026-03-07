@@ -4,7 +4,7 @@
 Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie web moderne. Mi piace costruire interfacce intuitive e scrivere codice pulito — o almeno provarci, prima di scoprire che il bug era un punto e virgola.
 
 - 🔭 Attualmente lavoro su progetti **Full Stack** con React e Next.js
-- 🌱 Sto imparando: **Docker** — containerizzare tutto quello che si muove
+- 🌱 Sempre in fase di apprendimento: ogni giorno c'è qualcosa di nuovo da esplorare
 - 💬 Chiedimi di **JavaScript, React, TypeScript** o di qualsiasi cosa legata al web
 - ⚡ Fun fact: *Risolvo bug che ho creato 5 minuti prima*
 
