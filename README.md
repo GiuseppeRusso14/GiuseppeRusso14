@@ -40,6 +40,19 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
 
 ---
 
+## 🤝 Connettiti con me
+
+<div>
+    <a href="https://www.linkedin.com/in/giuseppe-russo-889742287/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/giuseppe_russo14/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -52,19 +65,6 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiuseppeRusso14&theme=tokyonight" height="170" alt="Top Languages by Repo"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiuseppeRusso14&theme=tokyonight" height="170" alt="GitHub Stats"/>
-</div>
-
----
-
-## 🤝 Connettiti con me
-
-<div>
-    <a href="https://www.linkedin.com/in/giuseppe-russo-889742287/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.instagram.com/giuseppe_russo14/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
 </div>
 
 ---
