@@ -47,7 +47,7 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://www.castellanoad.com/it" target="_blank">
         <img src="./images/Screen-CastellanoAD.webp" alt="Castellano AD" width="100%"/>
       </a>
@@ -60,8 +60,34 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
       </p>
       <a href="https://www.castellanoad.com/it" target="_blank" rel="noopener noreferrer">🌐 Visita il sito</a>
     </td>
-    <!-- Pappalardo Cavi — temporaneamente nascosto. Rimuovi i tag di commento per ripristinare.
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <a href="https://www.people-evolution.it/it" target="_blank">
+        <img src="./images/Screen-People-Evolution.webp" alt="People Evolution" width="100%"/>
+      </a>
+      <h3>👥 People Evolution</h3>
+      <p><em>Sito vetrina · 2025</em></p>
+      <p>Sito vetrina multilingua per People Evolution: design pulito, sviluppo da zero e attenzione alla performance su ogni dispositivo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Responsive-C8102E?style=flat-square"/>
+      </p>
+      <a href="https://www.people-evolution.it/it" target="_blank" rel="noopener noreferrer">🌐 Visita il sito</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://rigeneramedicallab.com/" target="_blank">
+        <img src="./images/Screen-Rigenera-Medical-Lab.webp" alt="Rigenera Medical Lab" width="100%"/>
+      </a>
+      <h3>🧬 Rigenera Medical Lab</h3>
+      <p><em>Sito web · 2026</em></p>
+      <p>Sito web per Rigenera Medical Lab: identità visiva curata, struttura chiara e sviluppo responsive per il settore medicale.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Responsive-E191C2?style=flat-square"/>
+      </p>
+      <a href="https://rigeneramedicallab.com/" target="_blank" rel="noopener noreferrer">🌐 Visita il sito</a>
+    </td>
+    <!-- Pappalardo Cavi — temporaneamente nascosto. Rimuovi i tag di commento per ripristinare (e ricorda di aggiornare i width delle td).
+    <td width="33%" valign="top">
       <a href="https://www.pappalardocavi.com/" target="_blank">
         <img src="./images/Screen-PappalardoCavi.webp" alt="Pappalardo Cavi" width="100%"/>
       </a>
@@ -75,35 +101,6 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
       <a href="https://www.pappalardocavi.com/" target="_blank" rel="noopener noreferrer">🌐 Visita il sito</a>
     </td>
     -->
-    <td width="50%" valign="top"></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://www.people-evolution.it/it" target="_blank">
-        <img src="./images/Screen-People-Evolution.webp" alt="People Evolution" width="100%"/>
-      </a>
-      <h3>👥 People Evolution</h3>
-      <p><em>Sito vetrina · 2025</em></p>
-      <p>Sito vetrina multilingua per People Evolution: design pulito, sviluppo da zero e attenzione alla performance su ogni dispositivo.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Responsive-C8102E?style=flat-square"/>
-      </p>
-      <a href="https://www.people-evolution.it/it" target="_blank" rel="noopener noreferrer">🌐 Visita il sito</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://rigeneramedicallab.com/" target="_blank">
-        <img src="./images/Screen-Rigenera-Medical-Lab.webp" alt="Rigenera Medical Lab" width="100%"/>
-      </a>
-      <h3>🧬 Rigenera Medical Lab</h3>
-      <p><em>Sito web · 2026</em></p>
-      <p>Sito web per Rigenera Medical Lab: identità visiva curata, struttura chiara e sviluppo responsive per il settore medicale.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Responsive-E191C2?style=flat-square"/>
-      </p>
-      <a href="https://rigeneramedicallab.com/" target="_blank" rel="noopener noreferrer">🌐 Visita il sito</a>
-    </td>
   </tr>
 </table>
 
