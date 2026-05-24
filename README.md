@@ -43,7 +43,7 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
 
 ## 🚀 Progetti in evidenza
 
-> Una selezione dei lavori realizzati per **[Plan Studios](https://planstudios.it/)**. Puoi vedere tutti i progetti sul mio [portfolio online](https://tuosito.com).
+> Una selezione dei lavori realizzati per <strong><a href="https://planstudios.it/" target="_blank" rel="noopener noreferrer">Plan Studios</a></strong>. Puoi vedere tutti i progetti sul mio <a href="https://tuosito.com" target="_blank" rel="noopener noreferrer">portfolio online</a>.
 
 <table>
   <tr>
@@ -58,21 +58,24 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
         <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
         <img src="https://img.shields.io/badge/Responsive-1C1C1C?style=flat-square"/>
       </p>
-      <a href="https://www.castellanoad.com/it">🌐 Visita il sito</a>
+      <a href="https://www.castellanoad.com/it" target="_blank" rel="noopener noreferrer">🌐 Visita il sito</a>
     </td>
+    <!-- Pappalardo Cavi — temporaneamente nascosto. Rimuovi i tag di commento per ripristinare.
     <td width="50%" valign="top">
       <a href="https://www.pappalardocavi.com/" target="_blank">
         <img src="./images/Screen-PappalardoCavi.webp" alt="Pappalardo Cavi" width="100%"/>
       </a>
       <h3>🔌 Pappalardo Cavi</h3>
-      <p><em>Sito vetrina · 2024</em></p>
+      <p><em>Sito vetrina · 2026</em></p>
       <p>Sito vetrina per Pappalardo Cavi: presentazione dei prodotti e dell'azienda con un'esperienza utente curata e completamente responsive.</p>
       <p>
         <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
         <img src="https://img.shields.io/badge/Responsive-2E6B43?style=flat-square"/>
       </p>
-      <a href="https://www.pappalardocavi.com/">🌐 Visita il sito</a>
+      <a href="https://www.pappalardocavi.com/" target="_blank" rel="noopener noreferrer">🌐 Visita il sito</a>
     </td>
+    -->
+    <td width="50%" valign="top"></td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -80,26 +83,26 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
         <img src="./images/Screen-People-Evolution.webp" alt="People Evolution" width="100%"/>
       </a>
       <h3>👥 People Evolution</h3>
-      <p><em>Sito vetrina · 2024</em></p>
+      <p><em>Sito vetrina · 2025</em></p>
       <p>Sito vetrina multilingua per People Evolution: design pulito, sviluppo da zero e attenzione alla performance su ogni dispositivo.</p>
       <p>
         <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
         <img src="https://img.shields.io/badge/Responsive-C8102E?style=flat-square"/>
       </p>
-      <a href="https://www.people-evolution.it/it">🌐 Visita il sito</a>
+      <a href="https://www.people-evolution.it/it" target="_blank" rel="noopener noreferrer">🌐 Visita il sito</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://rigeneramedicallab.com/" target="_blank">
         <img src="./images/Screen-Rigenera-Medical-Lab.webp" alt="Rigenera Medical Lab" width="100%"/>
       </a>
       <h3>🧬 Rigenera Medical Lab</h3>
-      <p><em>Sito web · 2025</em></p>
+      <p><em>Sito web · 2026</em></p>
       <p>Sito web per Rigenera Medical Lab: identità visiva curata, struttura chiara e sviluppo responsive per il settore medicale.</p>
       <p>
         <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
         <img src="https://img.shields.io/badge/Responsive-E191C2?style=flat-square"/>
       </p>
-      <a href="https://rigeneramedicallab.com/">🌐 Visita il sito</a>
+      <a href="https://rigeneramedicallab.com/" target="_blank" rel="noopener noreferrer">🌐 Visita il sito</a>
     </td>
   </tr>
 </table>
@@ -109,16 +112,16 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
 ## 🤝 Connettiti con me
 
 <div>
-    <a href="https://www.linkedin.com/in/giuseppe-russo-889742287/">
+    <a href="https://www.linkedin.com/in/giuseppe-russo-889742287/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.instagram.com/giuseppe_russo14/">
+    <a href="https://www.instagram.com/giuseppe_russo14/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="mailto:tua@email.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://tuosito.com">
+    <a href="https://tuosito.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
 </div>
