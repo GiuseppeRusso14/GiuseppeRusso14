@@ -43,34 +43,63 @@ Sviluppatore appassionato con focus su **React**, **TypeScript** e tecnologie we
 
 ## 🚀 Progetti in evidenza
 
+> Una selezione dei lavori realizzati per **[Plan Studios](https://planstudios.it/)**. Puoi vedere tutti i progetti sul mio [portfolio online](https://tuosito.com).
+
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>📦 Nome Progetto 1</h3>
-      <p>Breve descrizione del progetto. Cosa fa, che problema risolve.</p>
+    <td width="50%" valign="top">
+      <a href="https://www.castellanoad.com/it" target="_blank">
+        <img src="./images/Screen-CastellanoAD.webp" alt="Castellano AD" width="100%"/>
+      </a>
+      <h3>🏢 Castellano AD</h3>
+      <p><em>Sito aziendale · 2025</em></p>
+      <p>Sito istituzionale moderno e responsive realizzato per Castellano AD. Focus su web design, sviluppo e ottimizzazione cross-device.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Responsive-1C1C1C?style=flat-square"/>
       </p>
-      <a href="#">🔗 GitHub</a> · <a href="#">🌐 Live Demo</a>
+      <a href="https://www.castellanoad.com/it">🌐 Visita il sito</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>📦 Nome Progetto 2</h3>
-      <p>Breve descrizione del progetto. Cosa fa, che problema risolve.</p>
+    <td width="50%" valign="top">
+      <a href="https://www.pappalardocavi.com/" target="_blank">
+        <img src="./images/Screen-PappalardoCavi.webp" alt="Pappalardo Cavi" width="100%"/>
+      </a>
+      <h3>🔌 Pappalardo Cavi</h3>
+      <p><em>Sito vetrina · 2024</em></p>
+      <p>Sito vetrina per Pappalardo Cavi: presentazione dei prodotti e dell'azienda con un'esperienza utente curata e completamente responsive.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Responsive-2E6B43?style=flat-square"/>
       </p>
-      <a href="#">🔗 GitHub</a> · <a href="#">🌐 Live Demo</a>
+      <a href="https://www.pappalardocavi.com/">🌐 Visita il sito</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>📦 Nome Progetto 3</h3>
-      <p>Breve descrizione del progetto. Cosa fa, che problema risolve.</p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.people-evolution.it/it" target="_blank">
+        <img src="./images/Screen-People-Evolution.webp" alt="People Evolution" width="100%"/>
+      </a>
+      <h3>👥 People Evolution</h3>
+      <p><em>Sito vetrina · 2024</em></p>
+      <p>Sito vetrina multilingua per People Evolution: design pulito, sviluppo da zero e attenzione alla performance su ogni dispositivo.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Responsive-C8102E?style=flat-square"/>
       </p>
-      <a href="#">🔗 GitHub</a> · <a href="#">🌐 Live Demo</a>
+      <a href="https://www.people-evolution.it/it">🌐 Visita il sito</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://rigeneramedicallab.com/" target="_blank">
+        <img src="./images/Screen-Rigenera-Medical-Lab.webp" alt="Rigenera Medical Lab" width="100%"/>
+      </a>
+      <h3>🧬 Rigenera Medical Lab</h3>
+      <p><em>Sito web · 2025</em></p>
+      <p>Sito web per Rigenera Medical Lab: identità visiva curata, struttura chiara e sviluppo responsive per il settore medicale.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web_Design-455CE9?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Responsive-E191C2?style=flat-square"/>
+      </p>
+      <a href="https://rigeneramedicallab.com/">🌐 Visita il sito</a>
     </td>
   </tr>
 </table>
